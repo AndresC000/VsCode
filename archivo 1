@@ -1,0 +1,10 @@
+CI/CD:
+
+CI: Integración Continua y entrega
+CD: Despliegue Continua
+
+Estas hacen que el desarrollo de apps sea mas rápido, seguro y eficiente
+
+Todo esto mediante el uso de la automatización, CI/CD ayuda a detectar, verificar y gestionar los cambios de código desde el momento en que se introducen hasta el punto en que se entrega a los cliente, este sistema de gestión de cambios se conoce como **Pipeline de CI/CD**
+
+Las herramientas de CI/CD ayudan a elimina los inconvenientes durante los cambios que realizan los desarrolladores cuando realizan los cambios en una base de código compartida, esto respalda la entrega efectiva de software a través de la colaboración y mejora continua
